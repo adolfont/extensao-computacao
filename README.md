@@ -13,3 +13,9 @@ Podcast do Professor Adolfo Neto  https://anchor.fm/adolfont
 # Sites
 
 Computer Science Master https://www.computersciencemaster.com.br/
+
+# YouTube
+
+[Otavio Lemos](https://www.youtube.com/channel/UC9cOiXh-RFR7KI61KcyTb0g)
+
+[Adolfo Neto](https://www.youtube.com/channel/UCn5ML-6aeHAXGjD4n891LlA)
