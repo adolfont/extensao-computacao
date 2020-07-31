@@ -18,4 +18,6 @@ Computer Science Master https://www.computersciencemaster.com.br/
 
 [Otavio Lemos](https://www.youtube.com/channel/UC9cOiXh-RFR7KI61KcyTb0g)
 
+[Marcela dos Santos](https://www.youtube.com/channel/UCQfB4UQVpDV4duK5Uo5b8hg)
+
 [Adolfo Neto](https://www.youtube.com/channel/UCn5ML-6aeHAXGjD4n891LlA)
