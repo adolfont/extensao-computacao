@@ -1,4 +1,4 @@
-# Recursos feitos por acadêmicos cujo público-alvo é a comunidade
+# Recursos feitos por acadêmicos (professores e estudantes) cujo público-alvo é a comunidade de profissionais da área
 
 
 # Podcasts
